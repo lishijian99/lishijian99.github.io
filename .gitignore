@@ -4,4 +4,5 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.idea
 # End of https://www.gitignore.io/api/jekyll
